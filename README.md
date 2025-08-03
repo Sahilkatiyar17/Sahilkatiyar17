@@ -33,7 +33,7 @@ I'm currently exploring the exciting fields of **Reinforcement Learning** and **
 
 ## 📫 Let's Connect!
 
-If you're interested in collaborating or have an opportunity you'd like to discuss, feel free to [connect with me on LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sahil-katiyar-3b3a24248/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) or [drop me an email](mailto: sahilkatiyar2024@gmail.com)
+If you're interested in collaborating or have an opportunity you'd like to discuss, feel free to [connect with me on LinkedIn][https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sahil-katiyar-3b3a24248/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [drop me an email](mailto: sahilkatiyar2024@gmail.com)
 
 
 <!---
