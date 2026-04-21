@@ -1,42 +1,61 @@
-## 👋 About Me
+# 👋 About Me
 
-🎓 I'm a third-year undergraduate student pursuing a Bachelor's degree in **Data Science and Analytics**.
+🎓 Undergraduate in Data Science & Analytics, focused on building real-world AI systems.
 
-🚀 I have a strong foundation in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.  
-I'm currently exploring the exciting fields of **Reinforcement Learning** and **Generative AI**.
+ I work across Machine Learning, Deep Learning, and Generative AI, with hands-on experience in developing Agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, and LLM-based workflows.
 
-🔍 I'm passionate about building intelligent systems and applying data science to solve real-world problems.
+ Currently exploring:
+- Reinforcement Learning + AI Agents (adaptive decision-making systems)
+- MLOps & LLMOps (scalable AI system deployment)
 
-📊 I also have hands-on experience in **Machine learing** , **data analysis** and **data visualization**—turning complex datasets into actionable insights.
+ Interested in building intelligent, autonomous systems that combine data-driven models with reasoning agents.
 
-🎯 **Currently seeking** internship opportunities in **AI**, **Machine Learning**, or **Data Science** roles.
-
----
-
-## 🛠️ Skills & Tools
-
-### 👨‍💻 Programming & Data Science:
-- **Languages**: Python, SQL
-- **Libraries & Frameworks**:  
-  - 🧠 *ML/DL*: `Scikit-learn`, `TensorFlow`  
-  - 📊 *Data Analysis & Visualization*: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
-
-### 🌐 Web Development:
-- `HTML`, `CSS`, `JavaScript` (basic)
-- Backend frameworks: `Flask`, `Django`, `FastAPI`
-
-### ⚙️ DevOps & Tools:
-- `Docker`
-- Git, GitHub
+ Actively seeking internship opportunities in AI Engineering, Machine Learning, or Generative AI.
 
 ---
 
-## 📫 Let's Connect!
+# 🛠️ Skills & Tools
 
-If you're interested in collaborating or have an opportunity you'd like to discuss, feel free to [connect with me on LinkedIn][https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sahil-katiyar-3b3a24248/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [drop me an email](mailto: sahilkatiyar2024@gmail.com)
+##  Programming
+- Python, SQL  
 
+##  Machine Learning & AI
+- Machine Learning, Deep Learning, Natural Language Processing (NLP)  
+- Reinforcement Learning (Learning Phase)
 
-<!---
-Sahilkatiyar17/Sahilkatiyar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Generative AI & Agents
+- Large Language Models (LLMs)  
+- Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- Agentic AI Systems  
+
+##  Libraries & Frameworks
+- PyTorch, Scikit-learn  
+- Pandas, NumPy, NLTK  
+- Hugging Face Transformers  
+- LangChain, LangGraph, LangSmith  
+- Unsloth  
+
+##  Backend & Deployment
+- FastAPI  
+- Docker  
+- Git, GitHub  
+
+##  Data & Visualization
+- Matplotlib, Seaborn  
+
+---
+
+#  What I’m Building
+
+- Multi-Agent AI Systems  
+- RAG-based Intelligent Assistants  
+- LLM Fine-Tuning Pipelines  
+- AI + Reinforcement Learning Integrations  
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/your-profile/  
+📧 Email: sahilkatiyar2024@gmail.com  
