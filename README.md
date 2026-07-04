@@ -1,4 +1,4 @@
-```html
+
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">
@@ -151,4 +151,4 @@ Currently working on
 ⭐ If you like my projects, consider giving them a star!
 
 </h3>
-```
+
